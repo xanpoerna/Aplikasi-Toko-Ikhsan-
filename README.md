@@ -27,7 +27,7 @@ Aplikasi ini memiliki tiga halaman, yaitu Daftar Produk, Form Tambah Produk, dan
 - FXML
 
 ## Tampilan Aplikasi
-<img width="1920" height="1080" alt="image" src="https://1drv.ms/i/c/E89295495AC3A8D9/IQBWMYENg8OjRKH2xGMelCEqAQvbfrrCQ3IcimPCLgicKaM?e=Xj19vL" />
+<img width="1920" height="1080" alt="image" src="https://github.com/xanpoerna/Aplikasi-Toko-Ikhsan-/blob/c1eca90d79e9ce5472245261a6779592afb85199/Screenshot%20(33).png" />
 
 ## Aturan Validasi
 
