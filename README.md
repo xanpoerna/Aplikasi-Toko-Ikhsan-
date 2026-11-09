@@ -27,8 +27,7 @@ Aplikasi ini memiliki tiga halaman, yaitu Daftar Produk, Form Tambah Produk, dan
 - FXML
 
 ## Tampilan Aplikasi
-<img  />
-
+<img width="1920" height="1080" alt="image" src="https://1drv.ms/i/c/E89295495AC3A8D9/IQBWMYENg8OjRKH2xGMelCEqAQvbfrrCQ3IcimPCLgicKaM?e=Xj19vL" />
 
 ## Aturan Validasi
 
